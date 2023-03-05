@@ -62,4 +62,5 @@ boutonDescription.addEventListener("click", function () {
         return piece.description;
     });
     console.log(piecesDescription);
+    console.log("all good");
 });
