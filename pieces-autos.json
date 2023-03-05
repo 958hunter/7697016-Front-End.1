@@ -2,7 +2,7 @@
     {
         "id": 1,
         "nom": "Ampoule LED",
-        "prix": "958e sauf pour les hunters, 10",
+        "prix": 60,
         "categorie": "Optiques",
         "image": "images/ampoule-led.png",
         "disponibilité": true
@@ -35,7 +35,7 @@
         "id": 5,
         "nom": "Balai d'essuie-glace",
         "prix": 29.10,
-        "image": "images/balai-essui-glace.png",
+        "image": "images/balai-essuie-glace.png",
         "disponibilité": true
     }
 ]
