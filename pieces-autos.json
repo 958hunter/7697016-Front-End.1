@@ -37,5 +37,12 @@
         "prix": 29.10,
         "image": "images/balai-essuie-glace.png",
         "disponibilité": true
+    },
+    {
+        "id": 6,
+        "nom": "Badge hunter",
+        "prix": 50,
+        "image": "images/Logo-hunterxhunter.jpg",
+        "disponibilité": true
     }
 ]
